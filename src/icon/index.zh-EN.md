@@ -4,6 +4,8 @@ map:
   path: /components/icon
 ---
 
+## 使用方法
+
 <demo src="./demo/demo.tsx" language="vue" title="基本用法"></demo>
 
 ## API
